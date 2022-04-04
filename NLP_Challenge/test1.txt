@@ -1,0 +1,4 @@
+We have currencies like
+$4.73 $9 £7839 ₹934.836
+But it won't work with
+$ 673 or 874.74₹

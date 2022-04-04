@@ -1,0 +1,15 @@
+Hello there! This file is to test a python program to match different regular expressions.
+We have currencies like
+$4.73 $9 £7839 ₹934.836
+But it won't work with
+$ 673 or 874.74₹
+We have dates like
+19/05/21 06/12/2022
+but not works with
+1999/07/30 or 2020/10/1
+It checks for cardinalities like
+21st 43rd 6th 14th and nineteenth
+It checks for four letter words that begin with a vowel like
+iris or Edit or oath or Aunt or ugly
+but not
+icing or eat

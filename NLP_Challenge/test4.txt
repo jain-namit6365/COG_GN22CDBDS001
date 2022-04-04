@@ -1,0 +1,4 @@
+It checks for four letter words that begin with a vowel like
+iris or Edit or oath or Aunt or ugly
+but not
+icing or eat
